@@ -20,4 +20,4 @@ Esta es una aplicación móvil desarrollada para la plataforma Android, que perm
 1. Clona el repositorio o descarga el código fuente:
 
    ```bash
-   git clone https://github.com/tu-repositorio/app-eventos-ciudad.git
+   git clone https://github.com/tu-repositorio/eventos.git
